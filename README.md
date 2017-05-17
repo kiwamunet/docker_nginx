@@ -6,5 +6,5 @@ Simple Dockerfile and setting for running nginx
     $ ./build.sh
     $ ./run.sh
 
-Nginx awakens and listens to port 8080
+Nginx awakens and listens to port 8080.
 Enjoy!
